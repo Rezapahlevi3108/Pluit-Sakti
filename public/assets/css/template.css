@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #090617;
+}
+
+.color-primary {
+    color: #E50914;
+}
+
+.color-secondary {
+    color: #B1B9C5;
+}
+
+.bg-color-primary {
+    background-color: #090617;
+}
+
+.bg-color-primary-1 {
+    background-color: #0F172A;
+}
+
+.font-size-64 {
+    font-size: 64px;
+}
+
+.font-size-36 {
+    font-size: 36px;
+}
+
+.font-size-32 {
+    font-size: 32px;
+}
+
+.font-size-28 {
+    font-size: 28px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
+
+.padding-top-68 {
+    padding-top: 68px;
+}
+
+.margin-top-145 {
+    margin-top: 70px;
+}
+
+.margin-top-70 {
+    margin-top: 70px;
+}
+
+.margin-bottom-118 {
+    margin-bottom: 118px;
+}
+
+.nav-link:hover {
+    color: #E50914;
+    font-weight: bold;
+}
+
+.nav-link.active {
+    color: #E50914;
+    font-weight: bold;
+}
+
+.btn-style {
+    background-color: #E50914;
+    padding: 10px 16px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.btn-style:hover {
+    background-color: #8B0000;
+}
+
+@media (min-width: 992px) {
+    .btn-style {
+        padding: 14px 20px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    
+    .margin-top-145 {
+        margin-top: 145px;
+    }
+}
+
+.genre {
+    padding: 12px 20px;
+    border-radius: 100px;
+    border: 1px solid #FFF;
+}
+
+.footer {
+    background-color: #0F172A;
+}
+
+.footer-bottom {
+    border-top: 1px solid #545454;
+}

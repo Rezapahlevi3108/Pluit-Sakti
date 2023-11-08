@@ -1,0 +1,42 @@
+.search {
+    border-bottom: 1px solid #64748B;
+}
+
+.search input {
+    background-color: #090617;
+    color: #64748B;
+    padding: 10px 4px;
+    width: 309px;
+}
+
+.search input::placeholder {
+    background-image: url('../img/search-icon.svg');
+    background-position: start;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+.hero {
+    /* min-height: 514px; */
+    display: flex;
+    align-items: center;
+    background-image: url('../img/hero-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.hero::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, #090617 -1.58%, rgba(9, 6, 23, 0.58) 56.74%, rgba(9, 6, 23, 0.00) 94.94%);
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+}

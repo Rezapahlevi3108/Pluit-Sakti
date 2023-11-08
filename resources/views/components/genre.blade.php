@@ -1,0 +1,1 @@
+<span class="genre font-size-16 font-weight-500 text-white me-3">{{ $title }}</span>
