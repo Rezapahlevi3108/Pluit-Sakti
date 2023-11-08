@@ -1,66 +1,44 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Pluit Sakti
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<h2>Teknologi</h2>
+<ul>
+    <li>Laravel</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+</ul>
 
-## About Laravel
+<h2>Cara Menjalankan Aplikasi</h2>
+<ol>
+    <li>Buat file bernama .env</li>
+    <li>copy isi file .env.example dan paste pada file .env</li>
+    <li>Jalankan perintah "composer install" pada CLI</li>
+    <li>Jalankan perintah "php artisan key:generate" pada CLI</li>
+    <li>Jalankan perintah "PHP artisan serve"</li>
+</ul>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h1>Screenshot</h1>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h2>Halaman Home</h2>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![image](https://github.com/Rezapahlevi3108/Pluit-Sakti/assets/111274882/383e6eee-6ce8-4b61-8465-de040d3be575)
 
-## Learning Laravel
+<h2>Halaman Detail Film</h2>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![image](https://github.com/Rezapahlevi3108/Pluit-Sakti/assets/111274882/24e39d17-3b1e-46dc-a413-167b685668bb)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<h2>Halaman Sedang Tayang</h2>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![image](https://github.com/Rezapahlevi3108/Pluit-Sakti/assets/111274882/75ea8693-4cf4-4fc5-ba8f-de3d2523a933)
 
-## Laravel Sponsors
+<h2>Halaman Terpopuler</h2>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+![image](https://github.com/Rezapahlevi3108/Pluit-Sakti/assets/111274882/73e04206-092e-4172-a843-83b16fe17690)
 
-### Premium Partners
+<h2>Halaman Mendatang</h2>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+![image](https://github.com/Rezapahlevi3108/Pluit-Sakti/assets/111274882/01e1786e-dffb-4e12-9188-1aa96bcb714e)
 
-## Contributing
+<h2>Halaman Genre</h2>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![image](https://github.com/Rezapahlevi3108/Pluit-Sakti/assets/111274882/d91e7d8a-1da0-4be6-853e-8c1d62998ff8)
