@@ -128,6 +128,10 @@ body {
     border: 1px solid #FFF;
 }
 
+.genre-display {
+    display: inline-block;
+}
+
 .footer {
     background-color: #0F172A;
 }

@@ -166,90 +166,90 @@
     <div class="container">
         <h1 class="font-size-36 font-weight-700 text-white d-none d-md-block">Genre Tersedia</h1>
         <h1 class="font-size-28 font-weight-700 text-white d-block d-md-none">Genre Tersedia</h1>
-        <div class="d-flex align-items-center mt-4">
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+        <div class="mt-4">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Action" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Adventure" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Animation" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Comedy" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Crime" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Documentary" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Drama" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Family" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Fantasy" />
             </a>
         </div>
-        <div class="d-flex align-items-center" style="margin-top: 35px">
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+        <div class="">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Action" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Adventure" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Animation" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Comedy" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Crime" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Documentary" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Drama" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Family" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Fantasy" />
             </a>
         </div>
-        <div class="d-flex align-items-center" style="margin-top: 35px">
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+        <div class="">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Action" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Adventure" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Animation" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Comedy" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Crime" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Documentary" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Drama" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Family" />
             </a>
-            <a href="{{ route('genre') }}" class="text-decoration-none">
+            <a href="{{ route('genre') }}" class="text-decoration-none genre-display">
                 <x-genre title="Fantasy" />
             </a>
         </div>
