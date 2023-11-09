@@ -1,22 +1,5 @@
 # Pluit Sakti
 
-<h2>Teknologi</h2>
-<ul>
-    <li>Laravel</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-</ul>
-
-<h2>Cara Menjalankan Aplikasi</h2>
-<ol>
-    <li>Buat file bernama .env</li>
-    <li>copy isi file .env.example dan paste pada file .env</li>
-    <li>Jalankan perintah "composer install" pada CLI</li>
-    <li>Jalankan perintah "php artisan key:generate" pada CLI</li>
-    <li>Jalankan perintah "PHP artisan serve"</li>
-</ul>
-
 <h1>Screenshot</h1>
 
 <h2>Halaman Home</h2>
